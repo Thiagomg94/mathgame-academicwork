@@ -1,0 +1,10 @@
+# Dependências do projeto "Matemática Divertida"
+#
+# Este projeto utiliza apenas bibliotecas que já fazem parte da
+# biblioteca padrão do Python (tkinter, sqlite3, random, os, contextlib, enum),
+# portanto não há pacotes externos obrigatórios para instalar via pip.
+#
+# Caso o Tkinter não esteja disponível no seu sistema (comum em algumas
+# distribuições Linux), instale-o pelo gerenciador de pacotes do sistema
+# operacional, por exemplo:
+#   sudo apt-get install python3-tk

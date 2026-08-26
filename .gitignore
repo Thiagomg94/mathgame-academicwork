@@ -1,0 +1,13 @@
+# Arquivos compilados do Python
+__pycache__/
+*.pyc
+
+# Configurações do PyCharm
+.idea/
+
+# Banco de dados SQLite (dados gerados pelo uso, não código-fonte)
+*.db
+
+# Ambiente virtual, caso você crie um
+venv/
+.venv/
